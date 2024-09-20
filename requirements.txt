@@ -1,0 +1,15 @@
+langchain
+langchain_openai
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+fastapi
+uvicorn
+faiss-cpu
+groq
+langchain-groq
+spacy
+pypdf
+beautifulsoup4
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
